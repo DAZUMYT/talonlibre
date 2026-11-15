@@ -1,6 +1,6 @@
 {
   "name": "TalónLibre",
-  "domain": "talonlibre.es",
+  "domain": "dazumyt.github.io/talonlibre",
   "lang": "es",
   "tagline": "Guías claras para la fascitis plantar",
   "description": "TalónLibre explica qué es la fascitis plantar, qué tratamientos caseros tienen respaldo y qué plantillas, férulas nocturnas, rodillos y zapatillas conviene comprar en España, con fuentes médicas citadas.",
@@ -11,7 +11,8 @@
   "indexNowKey": "74cfffd4ca2914e53fa89dc4b7887c87",
   "about": "TalónLibre es una web independiente en español sobre fascitis plantar y dolor de talón. Resumimos la evidencia de fuentes médicas (NHS, Mayo Clinic, AAOS, MedlinePlus) y comparamos productos disponibles en España.",
   "methodology": "Seleccionamos productos de marcas establecidas, con especificaciones verificables en la web del fabricante o del vendedor y amplia disponibilidad en Amazon.es. No aceptamos pagos por aparecer en las comparativas. Revisamos las páginas periódicamente.",
-  "contact": "hola@talonlibre.es",
+  "contact": "Formulario en GitHub: https://github.com/DAZUMYT/talonlibre/issues",
   "disclosure": "Algunos enlaces de esta web son de afiliado: si compras a través de ellos podemos recibir una comisión, sin coste extra para ti.",
-  "medicalDisclaimer": "Contenido informativo; no sustituye el consejo de un médico o podólogo. Si el dolor dura más de unas semanas, empeora o aparece tras un golpe, consulta a un profesional."
+  "medicalDisclaimer": "Contenido informativo; no sustituye el consejo de un médico o podólogo. Si el dolor dura más de unas semanas, empeora o aparece tras un golpe, consulta a un profesional.",
+  "basePath": "/talonlibre"
 }

@@ -242,7 +242,9 @@ ${content.guides.map((g) => `- [${g.question}](${BASE}/guias/${g.slug}/): ${g.an
 if (site.indexNowKey) put(`${site.indexNowKey}.txt`, site.indexNowKey);
 
 fs.rmSync(OUT, { recursive: true, force: true });
-for (const [rel, html] of Object.entries(files)) {
+const BP = site.basePath || "";
+for (let [rel, html] of Object.entries(files)) {
+  if (BP && rel.endsWith(".html")) html = html.replace(/(href|src)="\/(?!\/)/g, `$1="${BP}/`);
   const dest = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   fs.writeFileSync(dest, html);

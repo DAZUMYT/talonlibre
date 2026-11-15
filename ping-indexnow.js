@@ -6,5 +6,5 @@ const urls = [...fs.readFileSync("dist/sitemap.xml", "utf8").matchAll(/<loc>(.*?
 fetch("https://api.indexnow.org/indexnow", {
   method: "POST",
   headers: { "Content-Type": "application/json; charset=utf-8" },
-  body: JSON.stringify({ host: site.domain, key: site.indexNowKey, keyLocation: `https://${site.domain}/${site.indexNowKey}.txt`, urlList: urls }),
+  body: JSON.stringify({ host: site.domain.split("/")[0], key: site.indexNowKey, keyLocation: `https://${site.domain}/${site.indexNowKey}.txt`, urlList: urls }),
 }).then((r) => console.log("IndexNow:", r.status, urls.length, "URLs"));
