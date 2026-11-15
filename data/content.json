@@ -53,7 +53,7 @@
   {
    "slug": "mejores-plantillas-fascitis-plantar",
    "h1": "Mejores plantillas para la fascitis plantar en España",
-   "tldr": "Para empezar barato, las Scholl In-Balance para fascitis plantar (unos 20 €). Si tienes el arco medio-alto, Superfeet High Arch; con arco neutro y muchas horas de pie, Powerstep Pinnacle; si sobrepronas o corres, Spenco Total Support Max.",
+   "tldr": "Para empezar barato, las Scholl In-Balance para fascitis plantar (unos 18-20 €). Si tienes el arco medio-alto, Superfeet High Arch (unos 45 €); con arco neutro y muchas horas de pie, Powerstep Pinnacle (unos 50 €); si sobrepronas o corres, Spenco Total Support Max (20-38 € según talla).",
    "intro": "Una plantilla con soporte de arco y taza de talón profunda reparte la presión y reduce la tensión sobre la fascia. Las plantillas prefabricadas funcionan para mucha gente, pero no son para todos: si en 4-6 semanas no notas mejoría, un podólogo puede valorar unas a medida.",
    "howToChoose": [
     "Mira tu arco: con arco alto, busca un soporte firme y alto; con arco neutro o plano, uno más moderado.",
@@ -73,9 +73,10 @@
       "Estabiliza la pisada",
       "Tallas S (37-39,5), M (40-42) y L (42,5-45)"
      ],
-     "price": "≈ 20 €",
+     "price": "≈ 18-20 €",
      "bestFor": "Primera opción económica para dolor de talón leve o moderado en el día a día",
-     "source": "https://www.druni.es/fascitis-plantar-talla-m-scholl-plantillas-aliviar-dolor"
+     "source": "https://www.druni.es/fascitis-plantar-talla-m-scholl-plantillas-aliviar-dolor",
+     "asin": "B0CCSSC2ZV"
     },
     {
      "brand": "Superfeet",
@@ -87,9 +88,10 @@
       "Para arcos medios y altos",
       "Se recorta para ajustarla al zapato"
      ],
-     "price": "≈ 35-55 €",
+     "price": "≈ 45 €",
      "bestFor": "Arco medio-alto que necesita un soporte firme en zapatillas o botas",
-     "source": "https://www.superfeet.com/en-us/blog/introducing-new-superfeet-product-names-and-packaging"
+     "source": "https://www.superfeet.com/en-us/blog/introducing-new-superfeet-product-names-and-packaging",
+     "asin": "B000KKTPD8"
     },
     {
      "brand": "Powerstep",
@@ -101,9 +103,10 @@
       "Carcasa de polipropileno con espuma y base de EVA",
       "Entra sin recortar en calzado deportivo, de trabajo o de vestir"
      ],
-     "price": null,
+     "price": "≈ 50 €",
      "bestFor": "Arco neutro o pronación leve y quien trabaja muchas horas de pie",
-     "source": "https://www.fleetfeet.com/products/powerstep-pinnacle"
+     "source": "https://www.fleetfeet.com/products/powerstep-pinnacle",
+     "asin": "B000KPKMU8"
     },
     {
      "brand": "Spenco",
@@ -115,9 +118,10 @@
       "Soporte metatarsal",
       "Tejido superior antimicrobiano"
      ],
-     "price": "≈ 40-55 €",
+     "price": "≈ 20-38 € según talla",
      "bestFor": "Corredores o personas que sobrepronan y necesitan un control firme",
-     "source": "https://spenco.com/products/total-support-max-insole"
+     "source": "https://spenco.com/products/total-support-max-insole",
+     "asin": "B07ND9BM8S"
     }
    ],
    "faq": [
@@ -138,7 +142,7 @@
   {
    "slug": "mejor-ferula-nocturna-fascitis-plantar",
    "h1": "Mejor férula nocturna para la fascitis plantar",
-   "tldr": "Si quieres una marca ortopédica española, la Orliman FP02 (unos 73 €), que es poco voluminosa. Si no toleras las botas rígidas, la Aircast Dorsal Night Splint. Para algo ligero y ajustable, la FUTURO Night Plantar Fasciitis Sleep Support.",
+   "tldr": "Si quieres una marca ortopédica española, la Orliman FP02 (unos 73 €), que es poco voluminosa. Para algo ligero y ajustable, la FUTURO Night Plantar Fasciitis Sleep Support (unos 39 € en Amazon). Si no toleras las botas rígidas, la Aircast Dorsal Night Splint.",
    "intro": "La férula nocturna mantiene el tobillo flexionado y la fascia estirada mientras duermes, así el primer paso de la mañana duele menos. Cuesta acostumbrarse las primeras noches, pero la AAOS la considera muy eficaz para el dolor matutino.",
    "howToChoose": [
     "Dorsal (va por encima del pie) o bota posterior (por detrás): la dorsal suele ser más fresca y cómoda para dormir.",
@@ -171,7 +175,7 @@
       "Almohadilla en el antepié",
       "2 tallas"
      ],
-     "price": "≈ 55-65 €",
+     "price": null,
      "bestFor": "Dolor matutino intenso en quien no tolera las botas rígidas",
      "source": "https://healthmanagement.org/products/view/dorsal-foot-elevator-dns-aircast"
     },
@@ -185,23 +189,10 @@
       "Correas con velcro",
       "Sujeción firme y perfil bajo"
      ],
-     "price": null,
+     "price": "≈ 39 €",
      "bestFor": "Una férula ligera y barata para probar si te funciona",
-     "source": "https://3m.com/3M/en_US/p/d/v100964106"
-    },
-    {
-     "brand": "Thuasne",
-     "name": "Night Splint",
-     "search": "Thuasne ferula nocturna fascitis plantar",
-     "features": [
-      "Carcasa de plástico ventilada",
-      "Correas ajustables para un estiramiento continuo",
-      "3 tallas",
-      "Indicada también para espolón calcáneo"
-     ],
-     "price": null,
-     "bestFor": "Quien busca una férula rígida clásica de marca ortopédica europea",
-     "source": "https://dme-direct.com/thuasne-night-splint"
+     "source": "https://3m.com/3M/en_US/p/d/v100964106",
+     "asin": "B07S8Q51RB"
     }
    ],
    "faq": [
@@ -221,7 +212,7 @@
   {
    "slug": "rodillo-pelota-masaje-fascitis-plantar",
    "h1": "Rodillos y pelotas de masaje para la fascitis plantar",
-   "tldr": "Una botella de agua congelada es gratis y funciona. Si quieres algo específico: Tiger Ball ICE para frío y masaje a la vez, TheraBand Foot Roller para un masaje suave diario y BLACKROLL Ball 08 para un masaje firme.",
+   "tldr": "Una botella de agua congelada es gratis y funciona. Si quieres algo específico: TheraBand Foot Roller para un masaje suave que además puedes enfriar, y BLACKROLL Ball 08 (unos 16 €) para un masaje firme y localizado.",
    "intro": "Rodar la planta del pie sobre algo frío o firme alivia el dolor y relaja la fascia. La AAOS recomienda rodar el pie sobre una botella helada unos 20 minutos, 3-4 veces al día. Un rodillo específico es más cómodo y no gotea.",
    "howToChoose": [
     "Frío o no: si lo que te alivia es el frío, busca uno que se pueda congelar o de acero que retenga el frío.",
@@ -229,19 +220,6 @@
     "Úsalo sentado, sin cargar todo el peso, y sin llegar a un dolor fuerte."
    ],
    "products": [
-    {
-     "brand": "Tiger Tail",
-     "name": "Tiger Ball ICE",
-     "search": "Tiger Tail Tiger Ball ICE",
-     "features": [
-      "Superficie de acero inoxidable de 6,35 cm que se mantiene fría",
-      "Se enfría en 30 minutos en el congelador",
-      "Con mango"
-     ],
-     "price": null,
-     "bestFor": "Combinar frío y masaje sin hielo que gotee",
-     "source": "https://tigertailusa.com/using-a-massage-ball-roller-stick-for-pain-relief/"
-    },
     {
      "brand": "TheraBand",
      "name": "Foot Roller",
@@ -253,7 +231,8 @@
      ],
      "price": null,
      "bestFor": "Un automasaje diario y suave del arco",
-     "source": "https://www.alimed.com/products/theraband-foot-roller"
+     "source": "https://www.alimed.com/products/theraband-foot-roller",
+     "asin": "B0133SG2LG"
     },
     {
      "brand": "BLACKROLL",
@@ -264,9 +243,10 @@
       "Más intensa que la versión de 12 cm",
       "Material EPP, muy ligera"
      ],
-     "price": null,
+     "price": "≈ 16 €",
      "bestFor": "Deportistas que quieren un masaje firme y localizado",
-     "source": "https://prd-www.blackroll.com/eu/en/products/blackroll-ball-08"
+     "source": "https://prd-www.blackroll.com/eu/en/products/blackroll-ball-08",
+     "asin": "B00EQ4PZHY"
     }
    ],
    "faq": [
@@ -282,7 +262,7 @@
   {
    "slug": "calcetines-compresion-fascitis-plantar",
    "h1": "Calcetines y tobilleras de compresión para la fascitis plantar",
-   "tldr": "Son un complemento, no un tratamiento principal. Para el día a día, la órtesis Orliman FP01 se lleva dentro del zapato; si quieres compresión de verdad, los calcetines Physix Gear de 20-30 mmHg; el manguito Copper Fit ICE añade mentol.",
+   "tldr": "Son un complemento, no un tratamiento principal. Para el día a día, la órtesis Orliman FP01 se lleva dentro del zapato; si quieres compresión de verdad, unos calcetines de 20-30 mmHg (unos 12 € el pack de 2 pares).",
    "intro": "La evidencia de la compresión en la fascitis plantar es más débil que la de los estiramientos, las plantillas o la férula nocturna. Aun así, a algunas personas una sujeción suave les da alivio durante el día. Si tienes diabetes o problemas circulatorios, consulta antes de usar compresión firme.",
    "howToChoose": [
     "Manguito o calcetín: el manguito deja los dedos libres y cabe en cualquier zapato; el calcetín hasta la rodilla comprime también la pierna.",
@@ -301,33 +281,21 @@
      ],
      "price": null,
      "bestFor": "Sujeción diurna discreta de marca española",
-     "source": "https://www.promofarma.com/en/orliman-plantar-fasciitis-orthosis-fp01-ts-1ud/p-539401"
+     "source": "https://www.promofarma.com/en/orliman-plantar-fasciitis-orthosis-fp01-ts-1ud/p-539401",
+     "asin": "B017BCCSHW"
     },
     {
-     "brand": "Physix Gear Sport",
+     "brand": "Varias marcas",
      "name": "Calcetines de compresión 20-30 mmHg",
-     "search": "Physix Gear calcetines compresion 20-30 mmHg",
+     "search": "calcetines compresion 20-30 mmHg",
      "features": [
       "Compresión graduada firme de 20-30 mmHg",
       "Calcetín hasta la rodilla",
       "Cuesta ponérselos, como casi todos los de compresión"
      ],
-     "price": null,
+     "price": "≈ 11-13 € el pack de 2 pares",
      "bestFor": "Quien pasa muchas horas de pie o hace deporte",
      "source": "https://www.healthline.com/health/compression-socks-for-plantar-fasciitis"
-    },
-    {
-     "brand": "Copper Fit",
-     "name": "ICE Plantar Fascia Compression Sleeve",
-     "search": "Copper Fit ICE plantar fascia sleeve",
-     "features": [
-      "Mentol microencapsulado que se activa con el movimiento",
-      "82% nailon, 18% elastano, con cobre",
-      "Tallas S/M (tobillo 20-25 cm) y L/XL (25-30 cm)"
-     ],
-     "price": null,
-     "bestFor": "Uso diurno ligero; comprime sobre todo el tobillo",
-     "source": "https://copperfitusa.com/collections/all/products/ice-plantar-fascia-ankle-sleeve"
     }
    ],
    "faq": [
@@ -341,7 +309,7 @@
   {
    "slug": "mejores-zapatillas-fascitis-plantar",
    "h1": "Mejores zapatillas para la fascitis plantar",
-   "tldr": "Para máxima amortiguación, HOKA Bondi. Si pronas y necesitas estabilidad, Brooks Adrenaline GTS o ASICS Gel-Kayano. Para casa y el día a día, la gama Vionic, para no ir descalzo ni en chanclas.",
+   "tldr": "Para máxima amortiguación, HOKA Bondi 9 (unos 140 €). Si pronas y necesitas estabilidad, Brooks Adrenaline GTS 25 (unos 115 €) o ASICS Gel-Kayano 33 (unos 140 €). Para casa y el día a día, la gama Vionic, para no ir descalzo ni en chanclas.",
    "intro": "El calzado es una de las medidas que más ayuda: talón bien amortiguado, soporte de arco y algo de drop (diferencia de altura entre talón y puntera) para descargar el gemelo y el tendón de Aquiles. Busca siempre el modelo vigente de cada línea, porque las marcas sacan versión nueva cada año.",
    "howToChoose": [
     "Amortiguación en el talón: es lo primero para el dolor de talón.",
@@ -353,20 +321,21 @@
    "products": [
     {
      "brand": "HOKA",
-     "name": "Bondi",
+     "name": "Bondi (versión actual: 9)",
      "search": "HOKA Bondi zapatillas",
      "features": [
       "Sello de aceptación de la APMA (podólogos de EE. UU.)",
       "Drop de 5 mm y suela muy alta (unos 40 mm)",
       "Espuma de máxima amortiguación con geometría rocker"
      ],
-     "price": null,
+     "price": "≈ 137-147 €",
      "bestFor": "Máxima amortiguación para caminar o correr con dolor de talón",
-     "source": "https://www.fleetfeet.com/blog/hoka-bondi-9-review-big-mac-big-stack"
+     "source": "https://www.fleetfeet.com/blog/hoka-bondi-9-review-big-mac-big-stack",
+     "asin": "B0D5G1XKJN"
     },
     {
      "brand": "Brooks",
-     "name": "Adrenaline GTS",
+     "name": "Adrenaline GTS (versión actual: 25)",
      "search": "Brooks Adrenaline GTS zapatillas",
      "features": [
       "Sello APMA",
@@ -374,22 +343,24 @@
       "Espuma DNA LOFT",
       "Sistema de estabilidad GuideRails"
      ],
-     "price": null,
+     "price": "≈ 115-130 €",
      "bestFor": "Pronadores que necesitan estabilidad y un drop alto",
-     "source": "https://carrerasdemontana.com/2024/10/30/brooks-adrenaline-gts24-zapatillas-running-estabilidad-drop-12-mayayo/amp/"
+     "source": "https://carrerasdemontana.com/2024/10/30/brooks-adrenaline-gts24-zapatillas-running-estabilidad-drop-12-mayayo/amp/",
+     "asin": "B0H3CCNHF1"
     },
     {
      "brand": "ASICS",
-     "name": "Gel-Kayano",
+     "name": "Gel-Kayano (versión actual: 33)",
      "search": "ASICS Gel-Kayano zapatillas",
      "features": [
       "Drop de 10 mm",
       "Estabilidad adaptativa 4D Guidance System",
       "PureGEL en el talón"
      ],
-     "price": null,
+     "price": "≈ 135-145 €",
      "bestFor": "Corredores con sobrepronación que buscan estabilidad y amortiguación",
-     "source": "https://www.fleetfeet.com/products/mens-asics-gel-kayano-31"
+     "source": "https://www.fleetfeet.com/products/mens-asics-gel-kayano-31",
+     "asin": "B0G4552PTR"
     },
     {
      "brand": "Vionic",
@@ -400,7 +371,7 @@
       "Muchos modelos con sello APMA",
       "Zapatos, sandalias y zapatillas de casa"
      ],
-     "price": null,
+     "price": "≈ 73-82 €",
      "bestFor": "Calzado de diario y de casa con soporte",
      "source": "https://www.vionicshoes.com/aches-and-pains/plantar-fasciitis"
     }
