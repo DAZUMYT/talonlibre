@@ -1,221 +1,650 @@
 {
-  "facts": [
-    {"text": "La fascia plantar es un tejido grueso de la planta del pie que une el talón con los dedos y forma el arco; cuando se sobrecarga y se inflama se habla de fascitis plantar.", "source": "https://medlineplus.gov/spanish/ency/article/007021.htm"},
-    {"text": "Es la causa más común de dolor de talón y suele diagnosticarse con una exploración física, normalmente sin pruebas de imagen.", "source": "https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis"},
-    {"text": "El síntoma típico es un dolor en el talón o el arco que es peor en los primeros pasos tras dormir o estar sentado, mejora al caminar y vuelve tras mucho tiempo de pie.", "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"},
-    {"text": "Factores de riesgo: tener entre 40 y 60 años, aumentar de golpe el ejercicio o las horas de pie, gemelos o tendón de Aquiles tensos, sobrepeso, calzado con poca amortiguación y pie plano o arco alto.", "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"},
-    {"text": "Los estiramientos de gemelo y de fascia plantar son la base del tratamiento; el de la fascia conviene hacerlo por la mañana, antes de apoyar el pie.", "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"},
-    {"text": "Más del 90% de los pacientes mejora en menos de 10 meses con tratamientos sencillos; la cirugía se reserva para quien no mejora tras 12 meses.", "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"},
-    {"text": "Rodar el pie sobre una botella de agua congelada unos 20 minutos, 3-4 veces al día, alivia el dolor; también sirve hielo envuelto en una toalla hasta 20 minutos cada 2-3 horas.", "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"},
-    {"text": "Conviene usar calzado con talón amortiguado y soporte de arco, y evitar tacones, chanclas, zapatos estrechos, ir descalzo sobre suelo duro y zapatillas deportivas gastadas.", "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"},
-    {"text": "Las taloneras de silicona y las plantillas, prefabricadas o a medida, pueden reducir la tensión sobre la fascia.", "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"},
-    {"text": "La férula nocturna mantiene el pie estirado mientras duermes y ayuda con el dolor de los primeros pasos de la mañana.", "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"},
-    {"text": "El espolón calcáneo puede verse en una radiografía, pero no es la causa del dolor: se trata el dolor sin necesidad de quitar el espolón.", "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"},
-    {"text": "Hay que ir al médico si el dolor es intenso, empeora, no mejora tras 2 semanas de autocuidado, hay hormigueo o pérdida de sensibilidad, o si tienes diabetes.", "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"}
-  ],
-  "categories": [
+ "facts": [
+  {
+   "text": "La fascia plantar es un tejido grueso de la planta del pie que une el talón con los dedos y forma el arco; cuando se sobrecarga y se inflama se habla de fascitis plantar.",
+   "source": "https://medlineplus.gov/spanish/ency/article/007021.htm"
+  },
+  {
+   "text": "Es la causa más común de dolor de talón y suele diagnosticarse con una exploración física, normalmente sin pruebas de imagen.",
+   "source": "https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis"
+  },
+  {
+   "text": "El síntoma típico es un dolor en el talón o el arco que es peor en los primeros pasos tras dormir o estar sentado, mejora al caminar y vuelve tras mucho tiempo de pie.",
+   "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"
+  },
+  {
+   "text": "Factores de riesgo: tener entre 40 y 60 años, aumentar de golpe el ejercicio o las horas de pie, gemelos o tendón de Aquiles tensos, sobrepeso, calzado con poca amortiguación y pie plano o arco alto.",
+   "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"
+  },
+  {
+   "text": "Los estiramientos de gemelo y de fascia plantar son la base del tratamiento; el de la fascia conviene hacerlo por la mañana, antes de apoyar el pie.",
+   "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+  },
+  {
+   "text": "Más del 90% de los pacientes mejora en menos de 10 meses con tratamientos sencillos; la cirugía se reserva para quien no mejora tras 12 meses.",
+   "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+  },
+  {
+   "text": "Rodar el pie sobre una botella de agua congelada unos 20 minutos, 3-4 veces al día, alivia el dolor; también sirve hielo envuelto en una toalla hasta 20 minutos cada 2-3 horas.",
+   "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+  },
+  {
+   "text": "Conviene usar calzado con talón amortiguado y soporte de arco, y evitar tacones, chanclas, zapatos estrechos, ir descalzo sobre suelo duro y zapatillas deportivas gastadas.",
+   "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"
+  },
+  {
+   "text": "Las taloneras de silicona y las plantillas, prefabricadas o a medida, pueden reducir la tensión sobre la fascia.",
+   "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+  },
+  {
+   "text": "La férula nocturna mantiene el pie estirado mientras duermes y ayuda con el dolor de los primeros pasos de la mañana.",
+   "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+  },
+  {
+   "text": "El espolón calcáneo puede verse en una radiografía, pero no es la causa del dolor: se trata el dolor sin necesidad de quitar el espolón.",
+   "source": "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+  },
+  {
+   "text": "Hay que ir al médico si el dolor es intenso, empeora, no mejora tras 2 semanas de autocuidado, hay hormigueo o pérdida de sensibilidad, o si tienes diabetes.",
+   "source": "https://www.nhs.uk/conditions/plantar-fasciitis/"
+  }
+ ],
+ "categories": [
+  {
+   "slug": "mejores-plantillas-fascitis-plantar",
+   "h1": "Mejores plantillas para la fascitis plantar en España",
+   "tldr": "Para empezar barato, las Scholl In-Balance para fascitis plantar (unos 20 €). Si tienes el arco medio-alto, Superfeet High Arch; con arco neutro y muchas horas de pie, Powerstep Pinnacle; si sobrepronas o corres, Spenco Total Support Max.",
+   "intro": "Una plantilla con soporte de arco y taza de talón profunda reparte la presión y reduce la tensión sobre la fascia. Las plantillas prefabricadas funcionan para mucha gente, pero no son para todos: si en 4-6 semanas no notas mejoría, un podólogo puede valorar unas a medida.",
+   "howToChoose": [
+    "Mira tu arco: con arco alto, busca un soporte firme y alto; con arco neutro o plano, uno más moderado.",
+    "Taza de talón profunda: estabiliza el talón y concentra la amortiguación donde duele.",
+    "Que quepa en tu calzado: las de longitud completa se recortan; en zapato de vestir, mejor una de perfil bajo.",
+    "Ve poco a poco: úsalas 1-2 horas el primer día y ve aumentando durante una semana.",
+    "Si empeoras o te aparece dolor nuevo en rodilla o tobillo, déjalas y consulta a un podólogo."
+   ],
+   "products": [
     {
-      "slug": "mejores-plantillas-fascitis-plantar",
-      "h1": "Mejores plantillas para la fascitis plantar en España",
-      "tldr": "Para empezar barato, las Scholl In-Balance para fascitis plantar (unos 20 €). Si tienes el arco medio-alto, Superfeet High Arch; con arco neutro y muchas horas de pie, Powerstep Pinnacle; si sobrepronas o corres, Spenco Total Support Max.",
-      "intro": "Una plantilla con soporte de arco y taza de talón profunda reparte la presión y reduce la tensión sobre la fascia. Las plantillas prefabricadas funcionan para mucha gente, pero no son para todos: si en 4-6 semanas no notas mejoría, un podólogo puede valorar unas a medida.",
-      "howToChoose": [
-        "Mira tu arco: con arco alto, busca un soporte firme y alto; con arco neutro o plano, uno más moderado.",
-        "Taza de talón profunda: estabiliza el talón y concentra la amortiguación donde duele.",
-        "Que quepa en tu calzado: las de longitud completa se recortan; en zapato de vestir, mejor una de perfil bajo.",
-        "Ve poco a poco: úsalas 1-2 horas el primer día y ve aumentando durante una semana.",
-        "Si empeoras o te aparece dolor nuevo en rodilla o tobillo, déjalas y consulta a un podólogo."
-      ],
-      "products": [
-        {"brand": "Scholl", "name": "In-Balance Plantillas Fascitis Plantar", "search": "Scholl In-Balance plantillas fascitis plantar", "features": ["Plantilla completa con refuerzo en arco y talón", "Absorbe impactos y reparte la presión", "Estabiliza la pisada", "Tallas S (37-39,5), M (40-42) y L (42,5-45)"], "price": "≈ 20 €", "bestFor": "Primera opción económica para dolor de talón leve o moderado en el día a día", "source": "https://www.druni.es/fascitis-plantar-talla-m-scholl-plantillas-aliviar-dolor"},
-        {"brand": "Superfeet", "name": "All-Purpose Support High Arch (antigua Green)", "search": "Superfeet High Arch Support plantillas", "features": ["Arco alto y firme", "Taza de talón profunda", "Para arcos medios y altos", "Se recorta para ajustarla al zapato"], "price": "≈ 35-55 €", "bestFor": "Arco medio-alto que necesita un soporte firme en zapatillas o botas", "source": "https://www.superfeet.com/en-us/blog/introducing-new-superfeet-product-names-and-packaging"},
-        {"brand": "Powerstep", "name": "Pinnacle", "search": "Powerstep Pinnacle plantillas", "features": ["Soporte de arco neutro diseñado por podólogos", "Cuna de talón profunda", "Carcasa de polipropileno con espuma y base de EVA", "Entra sin recortar en calzado deportivo, de trabajo o de vestir"], "price": null, "bestFor": "Arco neutro o pronación leve y quien trabaja muchas horas de pie", "source": "https://www.fleetfeet.com/products/powerstep-pinnacle"},
-        {"brand": "Spenco", "name": "Total Support Max", "search": "Spenco Total Support Max plantillas", "features": ["Cuna de estabilidad rígida y taza de talón profunda", "Sistema 3-POD con zonas de distinta firmeza", "Soporte metatarsal", "Tejido superior antimicrobiano"], "price": "≈ 40-55 €", "bestFor": "Corredores o personas que sobrepronan y necesitan un control firme", "source": "https://spenco.com/products/total-support-max-insole"}
-      ],
-      "faq": [
-        {"q": "¿Sirven las plantillas de farmacia para la fascitis plantar?", "a": "A mucha gente le ayudan: la AAOS incluye las plantillas prefabricadas entre los tratamientos de primera línea. Si en 4-6 semanas no notas mejoría, consulta a un podólogo, porque una plantilla genérica no se adapta a todos los pies."},
-        {"q": "¿Plantillas a medida o prefabricadas?", "a": "Empieza por unas prefabricadas, que son más baratas y a menudo bastan. Las de podólogo tienen sentido si no mejoras, si tienes una deformidad del pie o si ya has tenido recaídas."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/", "https://alicanteplaza.es/alicanteplaza/Lospodlogosavisandelanecesidaddeplantillasantemolestiasenpiernas"]
+     "brand": "Scholl",
+     "name": "In-Balance Plantillas Fascitis Plantar",
+     "search": "Scholl In-Balance plantillas fascitis plantar",
+     "features": [
+      "Plantilla completa con refuerzo en arco y talón",
+      "Absorbe impactos y reparte la presión",
+      "Estabiliza la pisada",
+      "Tallas S (37-39,5), M (40-42) y L (42,5-45)"
+     ],
+     "price": "≈ 20 €",
+     "bestFor": "Primera opción económica para dolor de talón leve o moderado en el día a día",
+     "source": "https://www.druni.es/fascitis-plantar-talla-m-scholl-plantillas-aliviar-dolor"
     },
     {
-      "slug": "mejor-ferula-nocturna-fascitis-plantar",
-      "h1": "Mejor férula nocturna para la fascitis plantar",
-      "tldr": "Si quieres una marca ortopédica española, la Orliman FP02 (unos 73 €), que es poco voluminosa. Si no toleras las botas rígidas, la Aircast Dorsal Night Splint. Para algo ligero y ajustable, la FUTURO Night Plantar Fasciitis Sleep Support.",
-      "intro": "La férula nocturna mantiene el tobillo flexionado y la fascia estirada mientras duermes, así el primer paso de la mañana duele menos. Cuesta acostumbrarse las primeras noches, pero la AAOS la considera muy eficaz para el dolor matutino.",
-      "howToChoose": [
-        "Dorsal (va por encima del pie) o bota posterior (por detrás): la dorsal suele ser más fresca y cómoda para dormir.",
-        "Ajuste de la tensión: elige una que permita regular cuánto se estiran los dedos y el pie.",
-        "Talla: comprueba la tabla del fabricante según la longitud de tu pie.",
-        "Empieza con poca tensión y pocas horas; si te despierta el dolor, aflójala."
-      ],
-      "products": [
-        {"brand": "Orliman", "name": "Órtesis nocturna fascitis plantar FP02", "search": "Orliman FP02 ortesis nocturna fascitis plantar", "features": ["Marca ortopédica española", "Correa delantera ajustable que lleva los dedos hacia atrás", "Forro de rizo, rejilla transpirable y base antideslizante", "4 tallas, números 34 a 46"], "price": "≈ 73 €", "bestFor": "Quien prefiere una marca ortopédica de farmacia y algo menos voluminoso que una bota", "source": "https://www.orliman.com/en/pathology/plantar-fascitis/"},
-        {"brand": "Aircast", "name": "Dorsal Night Splint", "search": "Aircast Dorsal Night Splint", "features": ["Diseño dorsal, por encima del pie", "Bisagra y ajuste en tres puntos", "Almohadilla en el antepié", "2 tallas"], "price": "≈ 55-65 €", "bestFor": "Dolor matutino intenso en quien no tolera las botas rígidas", "source": "https://healthmanagement.org/products/view/dorsal-foot-elevator-dns-aircast"},
-        {"brand": "FUTURO", "name": "Night Plantar Fasciitis Sleep Support", "search": "FUTURO Night Plantar Fasciitis Sleep Support", "features": ["Talla única ajustable", "Vale para pie derecho o izquierdo", "Correas con velcro", "Sujeción firme y perfil bajo"], "price": null, "bestFor": "Una férula ligera y barata para probar si te funciona", "source": "https://3m.com/3M/en_US/p/d/v100964106"},
-        {"brand": "Thuasne", "name": "Night Splint", "search": "Thuasne ferula nocturna fascitis plantar", "features": ["Carcasa de plástico ventilada", "Correas ajustables para un estiramiento continuo", "3 tallas", "Indicada también para espolón calcáneo"], "price": null, "bestFor": "Quien busca una férula rígida clásica de marca ortopédica europea", "source": "https://dme-direct.com/thuasne-night-splint"}
-      ],
-      "faq": [
-        {"q": "¿Cuántas horas hay que llevar la férula nocturna?", "a": "Lo habitual es dormir con ella. Si al principio te molesta, empieza con un par de horas y ve aumentando; lo importante es la constancia durante varias semanas."},
-        {"q": "¿Férula dorsal o bota posterior?", "a": "Las dos mantienen el pie estirado. La dorsal deja libre el talón y la planta, así que suele dar menos calor y ser más fácil de tolerar; la bota posterior es más rígida y sujeta más."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"]
+     "brand": "Superfeet",
+     "name": "All-Purpose Support High Arch (antigua Green)",
+     "search": "Superfeet High Arch Support plantillas",
+     "features": [
+      "Arco alto y firme",
+      "Taza de talón profunda",
+      "Para arcos medios y altos",
+      "Se recorta para ajustarla al zapato"
+     ],
+     "price": "≈ 35-55 €",
+     "bestFor": "Arco medio-alto que necesita un soporte firme en zapatillas o botas",
+     "source": "https://www.superfeet.com/en-us/blog/introducing-new-superfeet-product-names-and-packaging"
     },
     {
-      "slug": "rodillo-pelota-masaje-fascitis-plantar",
-      "h1": "Rodillos y pelotas de masaje para la fascitis plantar",
-      "tldr": "Una botella de agua congelada es gratis y funciona. Si quieres algo específico: Tiger Ball ICE para frío y masaje a la vez, TheraBand Foot Roller para un masaje suave diario y BLACKROLL Ball 08 para un masaje firme.",
-      "intro": "Rodar la planta del pie sobre algo frío o firme alivia el dolor y relaja la fascia. La AAOS recomienda rodar el pie sobre una botella helada unos 20 minutos, 3-4 veces al día. Un rodillo específico es más cómodo y no gotea.",
-      "howToChoose": [
-        "Frío o no: si lo que te alivia es el frío, busca uno que se pueda congelar o de acero que retenga el frío.",
-        "Dureza: empieza por algo suave; una pelota dura y pequeña da un masaje más intenso y localizado.",
-        "Úsalo sentado, sin cargar todo el peso, y sin llegar a un dolor fuerte."
-      ],
-      "products": [
-        {"brand": "Tiger Tail", "name": "Tiger Ball ICE", "search": "Tiger Tail Tiger Ball ICE", "features": ["Superficie de acero inoxidable de 6,35 cm que se mantiene fría", "Se enfría en 30 minutos en el congelador", "Con mango"], "price": null, "bestFor": "Combinar frío y masaje sin hielo que gotee", "source": "https://tigertailusa.com/using-a-massage-ball-roller-stick-for-pain-relief/"},
-        {"brand": "TheraBand", "name": "Foot Roller", "search": "TheraBand Foot Roller", "features": ["Rodillo de goma para la planta del pie", "Se puede enfriar en la nevera o el congelador", "Pensado para fascitis plantar y pies cansados"], "price": null, "bestFor": "Un automasaje diario y suave del arco", "source": "https://www.alimed.com/products/theraband-foot-roller"},
-        {"brand": "BLACKROLL", "name": "Ball 08 (8 cm)", "search": "BLACKROLL Ball 08", "features": ["Pelota de 8 cm para masaje localizado", "Más intensa que la versión de 12 cm", "Material EPP, muy ligera"], "price": null, "bestFor": "Deportistas que quieren un masaje firme y localizado", "source": "https://prd-www.blackroll.com/eu/en/products/blackroll-ball-08"}
-      ],
-      "faq": [
-        {"q": "¿Rodar una botella congelada alivia la fascitis plantar?", "a": "Sí: la AAOS lo describe como un remedio eficaz. Rueda el pie sobre ella unos 20 minutos, 3-4 veces al día, y pon un calcetín o una toalla fina si el frío es demasiado."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"]
+     "brand": "Powerstep",
+     "name": "Pinnacle",
+     "search": "Powerstep Pinnacle plantillas",
+     "features": [
+      "Soporte de arco neutro diseñado por podólogos",
+      "Cuna de talón profunda",
+      "Carcasa de polipropileno con espuma y base de EVA",
+      "Entra sin recortar en calzado deportivo, de trabajo o de vestir"
+     ],
+     "price": null,
+     "bestFor": "Arco neutro o pronación leve y quien trabaja muchas horas de pie",
+     "source": "https://www.fleetfeet.com/products/powerstep-pinnacle"
     },
     {
-      "slug": "calcetines-compresion-fascitis-plantar",
-      "h1": "Calcetines y tobilleras de compresión para la fascitis plantar",
-      "tldr": "Son un complemento, no un tratamiento principal. Para el día a día, la órtesis Orliman FP01 se lleva dentro del zapato; si quieres compresión de verdad, los calcetines Physix Gear de 20-30 mmHg; el manguito Copper Fit ICE añade mentol.",
-      "intro": "La evidencia de la compresión en la fascitis plantar es más débil que la de los estiramientos, las plantillas o la férula nocturna. Aun así, a algunas personas una sujeción suave les da alivio durante el día. Si tienes diabetes o problemas circulatorios, consulta antes de usar compresión firme.",
-      "howToChoose": [
-        "Manguito o calcetín: el manguito deja los dedos libres y cabe en cualquier zapato; el calcetín hasta la rodilla comprime también la pierna.",
-        "Nivel de compresión: 15-20 mmHg es ligera; 20-30 mmHg es firme.",
-        "Talla por contorno del tobillo, no por número de pie."
-      ],
-      "products": [
-        {"brand": "Orliman", "name": "Órtesis para fascitis plantar FP01", "search": "Orliman FP01 fascitis plantar", "features": ["Banda que se cierra sobre el tobillo", "Correa elástica que presiona entre el talón y la fascia", "Para uso diurno dentro del zapato"], "price": null, "bestFor": "Sujeción diurna discreta de marca española", "source": "https://www.promofarma.com/en/orliman-plantar-fasciitis-orthosis-fp01-ts-1ud/p-539401"},
-        {"brand": "Physix Gear Sport", "name": "Calcetines de compresión 20-30 mmHg", "search": "Physix Gear calcetines compresion 20-30 mmHg", "features": ["Compresión graduada firme de 20-30 mmHg", "Calcetín hasta la rodilla", "Cuesta ponérselos, como casi todos los de compresión"], "price": null, "bestFor": "Quien pasa muchas horas de pie o hace deporte", "source": "https://www.healthline.com/health/compression-socks-for-plantar-fasciitis"},
-        {"brand": "Copper Fit", "name": "ICE Plantar Fascia Compression Sleeve", "search": "Copper Fit ICE plantar fascia sleeve", "features": ["Mentol microencapsulado que se activa con el movimiento", "82% nailon, 18% elastano, con cobre", "Tallas S/M (tobillo 20-25 cm) y L/XL (25-30 cm)"], "price": null, "bestFor": "Uso diurno ligero; comprime sobre todo el tobillo", "source": "https://copperfitusa.com/collections/all/products/ice-plantar-fascia-ankle-sleeve"}
-      ],
-      "faq": [
-        {"q": "¿Los calcetines de compresión ayudan con la fascitis plantar?", "a": "A algunas personas les alivia, pero no es de los tratamientos con más respaldo. Úsalos como complemento a estiramientos, buen calzado y plantillas."}
-      ],
-      "sources": []
-    },
-    {
-      "slug": "mejores-zapatillas-fascitis-plantar",
-      "h1": "Mejores zapatillas para la fascitis plantar",
-      "tldr": "Para máxima amortiguación, HOKA Bondi. Si pronas y necesitas estabilidad, Brooks Adrenaline GTS o ASICS Gel-Kayano. Para casa y el día a día, la gama Vionic, para no ir descalzo ni en chanclas.",
-      "intro": "El calzado es una de las medidas que más ayuda: talón bien amortiguado, soporte de arco y algo de drop (diferencia de altura entre talón y puntera) para descargar el gemelo y el tendón de Aquiles. Busca siempre el modelo vigente de cada línea, porque las marcas sacan versión nueva cada año.",
-      "howToChoose": [
-        "Amortiguación en el talón: es lo primero para el dolor de talón.",
-        "Drop medio o alto (8-12 mm): descarga la cadena posterior; evita las zapatillas minimalistas mientras dure el dolor.",
-        "Estabilidad si pronas: modelos con guías o sistemas de estabilidad.",
-        "Cambia las zapatillas gastadas: suelen perder amortiguación entre los 600 y 800 km.",
-        "En casa, no vayas descalzo sobre suelo duro."
-      ],
-      "products": [
-        {"brand": "HOKA", "name": "Bondi", "search": "HOKA Bondi zapatillas", "features": ["Sello de aceptación de la APMA (podólogos de EE. UU.)", "Drop de 5 mm y suela muy alta (unos 40 mm)", "Espuma de máxima amortiguación con geometría rocker"], "price": null, "bestFor": "Máxima amortiguación para caminar o correr con dolor de talón", "source": "https://www.fleetfeet.com/blog/hoka-bondi-9-review-big-mac-big-stack"},
-        {"brand": "Brooks", "name": "Adrenaline GTS", "search": "Brooks Adrenaline GTS zapatillas", "features": ["Sello APMA", "Drop de 12 mm", "Espuma DNA LOFT", "Sistema de estabilidad GuideRails"], "price": null, "bestFor": "Pronadores que necesitan estabilidad y un drop alto", "source": "https://carrerasdemontana.com/2024/10/30/brooks-adrenaline-gts24-zapatillas-running-estabilidad-drop-12-mayayo/amp/"},
-        {"brand": "ASICS", "name": "Gel-Kayano", "search": "ASICS Gel-Kayano zapatillas", "features": ["Drop de 10 mm", "Estabilidad adaptativa 4D Guidance System", "PureGEL en el talón"], "price": null, "bestFor": "Corredores con sobrepronación que buscan estabilidad y amortiguación", "source": "https://www.fleetfeet.com/products/mens-asics-gel-kayano-31"},
-        {"brand": "Vionic", "name": "Zapatillas de casa y sandalias con Vio-Motion", "search": "Vionic zapatillas casa soporte arco", "features": ["Plantilla integrada con soporte de arco", "Muchos modelos con sello APMA", "Zapatos, sandalias y zapatillas de casa"], "price": null, "bestFor": "Calzado de diario y de casa con soporte", "source": "https://www.vionicshoes.com/aches-and-pains/plantar-fasciitis"}
-      ],
-      "faq": [
-        {"q": "¿Puedo seguir corriendo con fascitis plantar?", "a": "Conviene reducir el volumen y evitar el dolor fuerte; el NHS cita aumentar el ejercicio de golpe como factor de riesgo. Mientras tanto, mantén la forma con bici o natación, y vuelve a correr poco a poco con zapatillas amortiguadas."}
-      ],
-      "sources": ["https://www.nhs.uk/conditions/plantar-fasciitis/"]
+     "brand": "Spenco",
+     "name": "Total Support Max",
+     "search": "Spenco Total Support Max plantillas",
+     "features": [
+      "Cuna de estabilidad rígida y taza de talón profunda",
+      "Sistema 3-POD con zonas de distinta firmeza",
+      "Soporte metatarsal",
+      "Tejido superior antimicrobiano"
+     ],
+     "price": "≈ 40-55 €",
+     "bestFor": "Corredores o personas que sobrepronan y necesitan un control firme",
+     "source": "https://spenco.com/products/total-support-max-insole"
     }
-  ],
-  "guides": [
+   ],
+   "faq": [
     {
-      "slug": "por-que-me-duele-el-talon-al-levantarme",
-      "question": "¿Por qué me duele el talón al levantarme por la mañana?",
-      "answer": "Lo más probable es la fascitis plantar: la fascia se acorta mientras duermes y el primer apoyo la estira de golpe. Por eso duele mucho los primeros pasos y mejora al caminar un rato.",
-      "categories": ["mejor-ferula-nocturna-fascitis-plantar", "mejores-plantillas-fascitis-plantar"],
-      "sections": [
-        {"h": "El patrón típico", "p": "La fascitis plantar duele en el talón o el arco, sobre todo en los primeros pasos tras dormir o tras estar un rato sentado. Suele mejorar al caminar y volver después de muchas horas de pie. Es la causa más común de dolor de talón."},
-        {"h": "Qué hacer antes de levantarte", "p": "Estira la fascia en la cama: sentado, cruza el pie dolorido sobre la otra rodilla y tira de los dedos hacia ti durante 10 segundos, varias veces. Así el primer apoyo duele menos.", "list": ["Ten unas zapatillas de casa con soporte junto a la cama, para no pisar descalzo.", "Una férula nocturna mantiene el pie estirado mientras duermes.", "Haz estiramientos de gemelo durante el día."]},
-        {"h": "Cuándo no es fascitis", "p": "Si el dolor apareció tras un golpe, hay hinchazón, hormigueo o pérdida de sensibilidad, o el dolor es peor en reposo y por la noche, consulta a un médico: puede ser otra cosa."}
-      ],
-      "faq": [{"q": "¿Es lo mismo el espolón calcáneo que la fascitis plantar?", "a": "No. El espolón es un pequeño crecimiento óseo que puede verse en la radiografía, pero no causa el dolor; la AAOS indica que se trata el dolor sin quitar el espolón."}],
-      "sources": ["https://www.nhs.uk/conditions/plantar-fasciitis/", "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/", "https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis"]
+     "q": "¿Sirven las plantillas de farmacia para la fascitis plantar?",
+     "a": "A mucha gente le ayudan: la AAOS incluye las plantillas prefabricadas entre los tratamientos de primera línea. Si en 4-6 semanas no notas mejoría, consulta a un podólogo, porque una plantilla genérica no se adapta a todos los pies."
     },
     {
-      "slug": "cuanto-tarda-en-curarse-la-fascitis-plantar",
-      "question": "¿Cuánto tarda en curarse la fascitis plantar?",
-      "answer": "Depende mucho de cada caso: la AAOS indica que más del 90% mejora en menos de 10 meses con tratamientos sencillos, y MedlinePlus habla de 6 a 18 meses para la mayoría. Cuanto antes empieces con estiramientos, buen calzado y plantillas, antes suele mejorar.",
-      "categories": ["mejores-plantillas-fascitis-plantar", "mejor-ferula-nocturna-fascitis-plantar"],
-      "sections": [
-        {"h": "Por qué las cifras varían", "p": "Las fuentes médicas dan plazos distintos porque el dolor puede durar semanas en casos leves y más de un año en casos crónicos. Lo importante es que casi todo el mundo mejora sin cirugía."},
-        {"h": "Lo que acelera la mejoría", "list": ["Estiramientos de gemelo y fascia a diario.", "Calzado amortiguado y con soporte; nada de chanclas ni ir descalzo.", "Plantillas o taloneras.", "Férula nocturna si el dolor de la mañana es fuerte.", "Frío y masaje con una botella congelada.", "Reducir temporalmente el impacto (correr, saltar)."]},
-        {"h": "Cuándo pedir ayuda", "p": "Si no mejoras tras 2 semanas de autocuidado, el dolor es intenso o empeora, ve al médico o al podólogo. La cirugía solo se plantea si no hay mejoría tras unos 12 meses."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/", "https://medlineplus.gov/spanish/ency/article/007021.htm", "https://www.nhs.uk/conditions/plantar-fasciitis/"]
-    },
-    {
-      "slug": "ferula-nocturna-fascitis-plantar-funciona",
-      "question": "¿Funciona de verdad la férula nocturna para la fascitis plantar?",
-      "answer": "Sí, sobre todo para el dolor de los primeros pasos de la mañana: mantiene la fascia estirada mientras duermes. La AAOS la considera muy eficaz, aunque cuesta acostumbrarse las primeras noches.",
-      "categories": ["mejor-ferula-nocturna-fascitis-plantar"],
-      "sections": [
-        {"h": "Cómo funciona", "p": "Al dormir, el pie cae hacia abajo y la fascia se acorta. La férula mantiene el tobillo a unos 90 grados y los dedos ligeramente hacia arriba, así que la fascia no se contrae y el primer apoyo no la tensa de golpe."},
-        {"h": "Consejos para tolerarla", "list": ["Empieza con la tensión floja.", "Llévala un par de horas y ve aumentando.", "Una férula dorsal suele dar menos calor que una bota.", "Sé constante varias semanas antes de juzgar el resultado."]}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"]
-    },
-    {
-      "slug": "ejercicios-estiramientos-fascitis-plantar",
-      "question": "¿Qué ejercicios y estiramientos son buenos para la fascitis plantar?",
-      "answer": "Los dos básicos son el estiramiento de gemelo contra la pared y el de fascia plantar tirando de los dedos hacia atrás, este último antes de levantarte. Son la base del tratamiento según la AAOS.",
-      "categories": ["rodillo-pelota-masaje-fascitis-plantar"],
-      "sections": [
-        {"h": "Estiramiento de gemelo", "p": "De pie frente a una pared, adelanta la pierna sana y deja atrás la dolorida, con la rodilla recta y el talón apoyado. Inclínate hacia la pared hasta notar el estiramiento en el gemelo. Mantén 10 segundos y repite 10 veces, 2-3 veces al día."},
-        {"h": "Estiramiento de fascia plantar", "p": "Sentado, cruza el pie dolorido sobre la otra rodilla y tira de los dedos hacia ti hasta notar tensión en la planta. Mantén 10 segundos y repite 10 veces. Hazlo antes del primer paso de la mañana y tras estar mucho tiempo sentado."},
-        {"h": "Masaje con frío", "p": "Rueda la planta del pie sobre una botella de agua congelada unos 20 minutos, 3-4 veces al día."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"]
-    },
-    {
-      "slug": "plantillas-podologo-o-farmacia-fascitis",
-      "question": "¿Plantillas a medida del podólogo o plantillas de farmacia para la fascitis plantar?",
-      "answer": "Empieza por unas prefabricadas con soporte de arco y talón (desde unos 20 €), que a muchas personas les bastan. Si en 4-6 semanas no mejoras, o tienes un pie muy plano o muy cavo, ve a un podólogo para valorar unas a medida.",
-      "categories": ["mejores-plantillas-fascitis-plantar"],
-      "sections": [
-        {"h": "Qué dice la evidencia", "p": "La AAOS incluye tanto las plantillas prefabricadas como las hechas a medida entre los tratamientos que reducen la tensión sobre la fascia. Las prefabricadas son más baratas y suelen ser el primer paso."},
-        {"h": "Cuándo merecen la pena las de podólogo", "p": "El Colegio de Podólogos de la Comunidad Valenciana advierte que las plantillas estándar no sirven para todos los pies y pueden empeorar algunos problemas. Si no mejoras, tienes una deformidad del pie o recaídas, unas a medida tienen más sentido."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/", "https://alicanteplaza.es/alicanteplaza/Lospodlogosavisandelanecesidaddeplantillasantemolestiasenpiernas"]
-    },
-    {
-      "slug": "taloneras-silicona-fascitis-plantar",
-      "question": "¿Las taloneras de silicona sirven para la fascitis plantar?",
-      "answer": "Pueden ayudar: la AAOS cita las taloneras blandas de silicona como una opción para amortiguar el talón y reducir la tensión. Son baratas y caben en casi cualquier zapato, aunque no dan soporte de arco como una plantilla completa.",
-      "categories": ["mejores-plantillas-fascitis-plantar"],
-      "sections": [
-        {"h": "Talonera o plantilla", "p": "La talonera solo amortigua el talón; la plantilla completa añade soporte de arco. Si el dolor es solo en el talón y usas zapatos donde no cabe una plantilla, la talonera es una buena opción. Si duele también el arco, mejor una plantilla."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"]
-    },
-    {
-      "slug": "cuando-ir-al-medico-dolor-de-talon",
-      "question": "¿Cuándo debo ir al médico o al podólogo por dolor de talón?",
-      "answer": "Ve si el dolor es intenso o te impide hacer vida normal, si empeora o reaparece, si no mejora tras 2 semanas de cuidados en casa, si tienes hormigueo o pérdida de sensibilidad, o si tienes diabetes.",
-      "categories": [],
-      "sections": [
-        {"h": "Señales de alarma", "list": ["Dolor tras un golpe o una caída.", "Hinchazón o enrojecimiento importante.", "Hormigueo, adormecimiento o pérdida de sensibilidad.", "Dolor fuerte en reposo o por la noche.", "Fiebre junto con el dolor.", "Diabetes."]},
-        {"h": "Qué esperar en la consulta", "p": "Normalmente el diagnóstico se hace con una exploración física, sin pruebas de imagen. El médico o el podólogo puede recomendarte estiramientos, plantillas, una férula nocturna o fisioterapia."}
-      ],
-      "sources": ["https://www.nhs.uk/conditions/plantar-fasciitis/", "https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis"]
-    },
-    {
-      "slug": "botella-congelada-fascitis-plantar",
-      "question": "¿Rodar una botella congelada alivia la fascitis plantar?",
-      "answer": "Sí. La AAOS describe rodar el pie sobre una botella de agua helada unos 20 minutos, 3-4 veces al día, como una forma eficaz de aliviar el dolor. Combina el frío con un masaje suave de la fascia.",
-      "categories": ["rodillo-pelota-masaje-fascitis-plantar"],
-      "sections": [
-        {"h": "Cómo hacerlo", "list": ["Congela una botella de plástico de medio litro llena de agua casi hasta arriba.", "Siéntate y rueda la planta del pie sobre ella, del talón a los dedos.", "Presiona lo justo; no debe doler mucho.", "Unos 20 minutos, 3-4 veces al día.", "Si el frío molesta, pon un calcetín fino."]},
-        {"h": "Alternativas sin goteo", "p": "Hay rodillos de acero o de gel que se congelan y retienen el frío, más cómodos que la botella."}
-      ],
-      "sources": ["https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/", "https://www.nhs.uk/conditions/plantar-fasciitis/"]
+     "q": "¿Plantillas a medida o prefabricadas?",
+     "a": "Empieza por unas prefabricadas, que son más baratas y a menudo bastan. Las de podólogo tienen sentido si no mejoras, si tienes una deformidad del pie o si ya has tenido recaídas."
     }
-  ]
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+    "https://alicanteplaza.es/alicanteplaza/Lospodlogosavisandelanecesidaddeplantillasantemolestiasenpiernas"
+   ]
+  },
+  {
+   "slug": "mejor-ferula-nocturna-fascitis-plantar",
+   "h1": "Mejor férula nocturna para la fascitis plantar",
+   "tldr": "Si quieres una marca ortopédica española, la Orliman FP02 (unos 73 €), que es poco voluminosa. Si no toleras las botas rígidas, la Aircast Dorsal Night Splint. Para algo ligero y ajustable, la FUTURO Night Plantar Fasciitis Sleep Support.",
+   "intro": "La férula nocturna mantiene el tobillo flexionado y la fascia estirada mientras duermes, así el primer paso de la mañana duele menos. Cuesta acostumbrarse las primeras noches, pero la AAOS la considera muy eficaz para el dolor matutino.",
+   "howToChoose": [
+    "Dorsal (va por encima del pie) o bota posterior (por detrás): la dorsal suele ser más fresca y cómoda para dormir.",
+    "Ajuste de la tensión: elige una que permita regular cuánto se estiran los dedos y el pie.",
+    "Talla: comprueba la tabla del fabricante según la longitud de tu pie.",
+    "Empieza con poca tensión y pocas horas; si te despierta el dolor, aflójala."
+   ],
+   "products": [
+    {
+     "brand": "Orliman",
+     "name": "Órtesis nocturna fascitis plantar FP02",
+     "search": "Orliman FP02 ortesis nocturna fascitis plantar",
+     "features": [
+      "Marca ortopédica española",
+      "Correa delantera ajustable que lleva los dedos hacia atrás",
+      "Forro de rizo, rejilla transpirable y base antideslizante",
+      "4 tallas, números 34 a 46"
+     ],
+     "price": "≈ 73 €",
+     "bestFor": "Quien prefiere una marca ortopédica de farmacia y algo menos voluminoso que una bota",
+     "source": "https://www.orliman.com/en/pathology/plantar-fascitis/"
+    },
+    {
+     "brand": "Aircast",
+     "name": "Dorsal Night Splint",
+     "search": "Aircast Dorsal Night Splint",
+     "features": [
+      "Diseño dorsal, por encima del pie",
+      "Bisagra y ajuste en tres puntos",
+      "Almohadilla en el antepié",
+      "2 tallas"
+     ],
+     "price": "≈ 55-65 €",
+     "bestFor": "Dolor matutino intenso en quien no tolera las botas rígidas",
+     "source": "https://healthmanagement.org/products/view/dorsal-foot-elevator-dns-aircast"
+    },
+    {
+     "brand": "FUTURO",
+     "name": "Night Plantar Fasciitis Sleep Support",
+     "search": "FUTURO Night Plantar Fasciitis Sleep Support",
+     "features": [
+      "Talla única ajustable",
+      "Vale para pie derecho o izquierdo",
+      "Correas con velcro",
+      "Sujeción firme y perfil bajo"
+     ],
+     "price": null,
+     "bestFor": "Una férula ligera y barata para probar si te funciona",
+     "source": "https://3m.com/3M/en_US/p/d/v100964106"
+    },
+    {
+     "brand": "Thuasne",
+     "name": "Night Splint",
+     "search": "Thuasne ferula nocturna fascitis plantar",
+     "features": [
+      "Carcasa de plástico ventilada",
+      "Correas ajustables para un estiramiento continuo",
+      "3 tallas",
+      "Indicada también para espolón calcáneo"
+     ],
+     "price": null,
+     "bestFor": "Quien busca una férula rígida clásica de marca ortopédica europea",
+     "source": "https://dme-direct.com/thuasne-night-splint"
+    }
+   ],
+   "faq": [
+    {
+     "q": "¿Cuántas horas hay que llevar la férula nocturna?",
+     "a": "Lo habitual es dormir con ella. Si al principio te molesta, empieza con un par de horas y ve aumentando; lo importante es la constancia durante varias semanas."
+    },
+    {
+     "q": "¿Férula dorsal o bota posterior?",
+     "a": "Las dos mantienen el pie estirado. La dorsal deja libre el talón y la planta, así que suele dar menos calor y ser más fácil de tolerar; la bota posterior es más rígida y sujeta más."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+   ]
+  },
+  {
+   "slug": "rodillo-pelota-masaje-fascitis-plantar",
+   "h1": "Rodillos y pelotas de masaje para la fascitis plantar",
+   "tldr": "Una botella de agua congelada es gratis y funciona. Si quieres algo específico: Tiger Ball ICE para frío y masaje a la vez, TheraBand Foot Roller para un masaje suave diario y BLACKROLL Ball 08 para un masaje firme.",
+   "intro": "Rodar la planta del pie sobre algo frío o firme alivia el dolor y relaja la fascia. La AAOS recomienda rodar el pie sobre una botella helada unos 20 minutos, 3-4 veces al día. Un rodillo específico es más cómodo y no gotea.",
+   "howToChoose": [
+    "Frío o no: si lo que te alivia es el frío, busca uno que se pueda congelar o de acero que retenga el frío.",
+    "Dureza: empieza por algo suave; una pelota dura y pequeña da un masaje más intenso y localizado.",
+    "Úsalo sentado, sin cargar todo el peso, y sin llegar a un dolor fuerte."
+   ],
+   "products": [
+    {
+     "brand": "Tiger Tail",
+     "name": "Tiger Ball ICE",
+     "search": "Tiger Tail Tiger Ball ICE",
+     "features": [
+      "Superficie de acero inoxidable de 6,35 cm que se mantiene fría",
+      "Se enfría en 30 minutos en el congelador",
+      "Con mango"
+     ],
+     "price": null,
+     "bestFor": "Combinar frío y masaje sin hielo que gotee",
+     "source": "https://tigertailusa.com/using-a-massage-ball-roller-stick-for-pain-relief/"
+    },
+    {
+     "brand": "TheraBand",
+     "name": "Foot Roller",
+     "search": "TheraBand Foot Roller",
+     "features": [
+      "Rodillo de goma para la planta del pie",
+      "Se puede enfriar en la nevera o el congelador",
+      "Pensado para fascitis plantar y pies cansados"
+     ],
+     "price": null,
+     "bestFor": "Un automasaje diario y suave del arco",
+     "source": "https://www.alimed.com/products/theraband-foot-roller"
+    },
+    {
+     "brand": "BLACKROLL",
+     "name": "Ball 08 (8 cm)",
+     "search": "BLACKROLL Ball 08",
+     "features": [
+      "Pelota de 8 cm para masaje localizado",
+      "Más intensa que la versión de 12 cm",
+      "Material EPP, muy ligera"
+     ],
+     "price": null,
+     "bestFor": "Deportistas que quieren un masaje firme y localizado",
+     "source": "https://prd-www.blackroll.com/eu/en/products/blackroll-ball-08"
+    }
+   ],
+   "faq": [
+    {
+     "q": "¿Rodar una botella congelada alivia la fascitis plantar?",
+     "a": "Sí: la AAOS lo describe como un remedio eficaz. Rueda el pie sobre ella unos 20 minutos, 3-4 veces al día, y pon un calcetín o una toalla fina si el frío es demasiado."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+   ]
+  },
+  {
+   "slug": "calcetines-compresion-fascitis-plantar",
+   "h1": "Calcetines y tobilleras de compresión para la fascitis plantar",
+   "tldr": "Son un complemento, no un tratamiento principal. Para el día a día, la órtesis Orliman FP01 se lleva dentro del zapato; si quieres compresión de verdad, los calcetines Physix Gear de 20-30 mmHg; el manguito Copper Fit ICE añade mentol.",
+   "intro": "La evidencia de la compresión en la fascitis plantar es más débil que la de los estiramientos, las plantillas o la férula nocturna. Aun así, a algunas personas una sujeción suave les da alivio durante el día. Si tienes diabetes o problemas circulatorios, consulta antes de usar compresión firme.",
+   "howToChoose": [
+    "Manguito o calcetín: el manguito deja los dedos libres y cabe en cualquier zapato; el calcetín hasta la rodilla comprime también la pierna.",
+    "Nivel de compresión: 15-20 mmHg es ligera; 20-30 mmHg es firme.",
+    "Talla por contorno del tobillo, no por número de pie."
+   ],
+   "products": [
+    {
+     "brand": "Orliman",
+     "name": "Órtesis para fascitis plantar FP01",
+     "search": "Orliman FP01 fascitis plantar",
+     "features": [
+      "Banda que se cierra sobre el tobillo",
+      "Correa elástica que presiona entre el talón y la fascia",
+      "Para uso diurno dentro del zapato"
+     ],
+     "price": null,
+     "bestFor": "Sujeción diurna discreta de marca española",
+     "source": "https://www.promofarma.com/en/orliman-plantar-fasciitis-orthosis-fp01-ts-1ud/p-539401"
+    },
+    {
+     "brand": "Physix Gear Sport",
+     "name": "Calcetines de compresión 20-30 mmHg",
+     "search": "Physix Gear calcetines compresion 20-30 mmHg",
+     "features": [
+      "Compresión graduada firme de 20-30 mmHg",
+      "Calcetín hasta la rodilla",
+      "Cuesta ponérselos, como casi todos los de compresión"
+     ],
+     "price": null,
+     "bestFor": "Quien pasa muchas horas de pie o hace deporte",
+     "source": "https://www.healthline.com/health/compression-socks-for-plantar-fasciitis"
+    },
+    {
+     "brand": "Copper Fit",
+     "name": "ICE Plantar Fascia Compression Sleeve",
+     "search": "Copper Fit ICE plantar fascia sleeve",
+     "features": [
+      "Mentol microencapsulado que se activa con el movimiento",
+      "82% nailon, 18% elastano, con cobre",
+      "Tallas S/M (tobillo 20-25 cm) y L/XL (25-30 cm)"
+     ],
+     "price": null,
+     "bestFor": "Uso diurno ligero; comprime sobre todo el tobillo",
+     "source": "https://copperfitusa.com/collections/all/products/ice-plantar-fascia-ankle-sleeve"
+    }
+   ],
+   "faq": [
+    {
+     "q": "¿Los calcetines de compresión ayudan con la fascitis plantar?",
+     "a": "A algunas personas les alivia, pero no es de los tratamientos con más respaldo. Úsalos como complemento a estiramientos, buen calzado y plantillas."
+    }
+   ],
+   "sources": []
+  },
+  {
+   "slug": "mejores-zapatillas-fascitis-plantar",
+   "h1": "Mejores zapatillas para la fascitis plantar",
+   "tldr": "Para máxima amortiguación, HOKA Bondi. Si pronas y necesitas estabilidad, Brooks Adrenaline GTS o ASICS Gel-Kayano. Para casa y el día a día, la gama Vionic, para no ir descalzo ni en chanclas.",
+   "intro": "El calzado es una de las medidas que más ayuda: talón bien amortiguado, soporte de arco y algo de drop (diferencia de altura entre talón y puntera) para descargar el gemelo y el tendón de Aquiles. Busca siempre el modelo vigente de cada línea, porque las marcas sacan versión nueva cada año.",
+   "howToChoose": [
+    "Amortiguación en el talón: es lo primero para el dolor de talón.",
+    "Drop medio o alto (8-12 mm): descarga la cadena posterior; evita las zapatillas minimalistas mientras dure el dolor.",
+    "Estabilidad si pronas: modelos con guías o sistemas de estabilidad.",
+    "Cambia las zapatillas gastadas: suelen perder amortiguación entre los 600 y 800 km.",
+    "En casa, no vayas descalzo sobre suelo duro."
+   ],
+   "products": [
+    {
+     "brand": "HOKA",
+     "name": "Bondi",
+     "search": "HOKA Bondi zapatillas",
+     "features": [
+      "Sello de aceptación de la APMA (podólogos de EE. UU.)",
+      "Drop de 5 mm y suela muy alta (unos 40 mm)",
+      "Espuma de máxima amortiguación con geometría rocker"
+     ],
+     "price": null,
+     "bestFor": "Máxima amortiguación para caminar o correr con dolor de talón",
+     "source": "https://www.fleetfeet.com/blog/hoka-bondi-9-review-big-mac-big-stack"
+    },
+    {
+     "brand": "Brooks",
+     "name": "Adrenaline GTS",
+     "search": "Brooks Adrenaline GTS zapatillas",
+     "features": [
+      "Sello APMA",
+      "Drop de 12 mm",
+      "Espuma DNA LOFT",
+      "Sistema de estabilidad GuideRails"
+     ],
+     "price": null,
+     "bestFor": "Pronadores que necesitan estabilidad y un drop alto",
+     "source": "https://carrerasdemontana.com/2024/10/30/brooks-adrenaline-gts24-zapatillas-running-estabilidad-drop-12-mayayo/amp/"
+    },
+    {
+     "brand": "ASICS",
+     "name": "Gel-Kayano",
+     "search": "ASICS Gel-Kayano zapatillas",
+     "features": [
+      "Drop de 10 mm",
+      "Estabilidad adaptativa 4D Guidance System",
+      "PureGEL en el talón"
+     ],
+     "price": null,
+     "bestFor": "Corredores con sobrepronación que buscan estabilidad y amortiguación",
+     "source": "https://www.fleetfeet.com/products/mens-asics-gel-kayano-31"
+    },
+    {
+     "brand": "Vionic",
+     "name": "Zapatillas de casa y sandalias con Vio-Motion",
+     "search": "Vionic zapatillas casa soporte arco",
+     "features": [
+      "Plantilla integrada con soporte de arco",
+      "Muchos modelos con sello APMA",
+      "Zapatos, sandalias y zapatillas de casa"
+     ],
+     "price": null,
+     "bestFor": "Calzado de diario y de casa con soporte",
+     "source": "https://www.vionicshoes.com/aches-and-pains/plantar-fasciitis"
+    }
+   ],
+   "faq": [
+    {
+     "q": "¿Puedo seguir corriendo con fascitis plantar?",
+     "a": "Conviene reducir el volumen y evitar el dolor fuerte; el NHS cita aumentar el ejercicio de golpe como factor de riesgo. Mientras tanto, mantén la forma con bici o natación, y vuelve a correr poco a poco con zapatillas amortiguadas."
+    }
+   ],
+   "sources": [
+    "https://www.nhs.uk/conditions/plantar-fasciitis/"
+   ]
+  }
+ ],
+ "guides": [
+  {
+   "slug": "por-que-me-duele-el-talon-al-levantarme",
+   "question": "¿Por qué me duele el talón al levantarme por la mañana?",
+   "answer": "Lo más probable es la fascitis plantar: la fascia se acorta mientras duermes y el primer apoyo la estira de golpe. Por eso duele mucho los primeros pasos y mejora al caminar un rato.",
+   "categories": [
+    "mejor-ferula-nocturna-fascitis-plantar",
+    "mejores-plantillas-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "El patrón típico",
+     "p": "La fascitis plantar duele en el talón o el arco, sobre todo en los primeros pasos tras dormir o tras estar un rato sentado. Suele mejorar al caminar y volver después de muchas horas de pie. Es la causa más común de dolor de talón."
+    },
+    {
+     "h": "Qué hacer antes de levantarte",
+     "p": "Estira la fascia en la cama: sentado, cruza el pie dolorido sobre la otra rodilla y tira de los dedos hacia ti durante 10 segundos, varias veces. Así el primer apoyo duele menos.",
+     "list": [
+      "Ten unas zapatillas de casa con soporte junto a la cama, para no pisar descalzo.",
+      "Una férula nocturna mantiene el pie estirado mientras duermes.",
+      "Haz estiramientos de gemelo durante el día."
+     ]
+    },
+    {
+     "h": "Cuándo no es fascitis",
+     "p": "Si el dolor apareció tras un golpe, hay hinchazón, hormigueo o pérdida de sensibilidad, o el dolor es peor en reposo y por la noche, consulta a un médico: puede ser otra cosa."
+    }
+   ],
+   "faq": [
+    {
+     "q": "¿Es lo mismo el espolón calcáneo que la fascitis plantar?",
+     "a": "No. El espolón es un pequeño crecimiento óseo que puede verse en la radiografía, pero no causa el dolor; la AAOS indica que se trata el dolor sin quitar el espolón."
+    }
+   ],
+   "sources": [
+    "https://www.nhs.uk/conditions/plantar-fasciitis/",
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+    "https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis"
+   ]
+  },
+  {
+   "slug": "cuanto-tarda-en-curarse-la-fascitis-plantar",
+   "question": "¿Cuánto tarda en curarse la fascitis plantar?",
+   "answer": "Depende mucho de cada caso: la AAOS indica que más del 90% mejora en menos de 10 meses con tratamientos sencillos, y MedlinePlus habla de 6 a 18 meses para la mayoría. Cuanto antes empieces con estiramientos, buen calzado y plantillas, antes suele mejorar.",
+   "categories": [
+    "mejores-plantillas-fascitis-plantar",
+    "mejor-ferula-nocturna-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "Por qué las cifras varían",
+     "p": "Las fuentes médicas dan plazos distintos porque el dolor puede durar semanas en casos leves y más de un año en casos crónicos. Lo importante es que casi todo el mundo mejora sin cirugía."
+    },
+    {
+     "h": "Lo que acelera la mejoría",
+     "list": [
+      "Estiramientos de gemelo y fascia a diario.",
+      "Calzado amortiguado y con soporte; nada de chanclas ni ir descalzo.",
+      "Plantillas o taloneras.",
+      "Férula nocturna si el dolor de la mañana es fuerte.",
+      "Frío y masaje con una botella congelada.",
+      "Reducir temporalmente el impacto (correr, saltar)."
+     ]
+    },
+    {
+     "h": "Cuándo pedir ayuda",
+     "p": "Si no mejoras tras 2 semanas de autocuidado, el dolor es intenso o empeora, ve al médico o al podólogo. La cirugía solo se plantea si no hay mejoría tras unos 12 meses."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+    "https://medlineplus.gov/spanish/ency/article/007021.htm",
+    "https://www.nhs.uk/conditions/plantar-fasciitis/"
+   ]
+  },
+  {
+   "slug": "ferula-nocturna-fascitis-plantar-funciona",
+   "question": "¿Funciona de verdad la férula nocturna para la fascitis plantar?",
+   "answer": "Ayuda sobre todo con el dolor de los primeros pasos de la mañana, y la AAOS la incluye entre los tratamientos eficaces. Pero la evidencia es mixta: algunos estudios no encuentran beneficio extra si ya haces estiramientos a diario. Úsala como complemento, no como tratamiento único.",
+   "categories": [
+    "mejor-ferula-nocturna-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "Cómo funciona",
+     "p": "Al dormir, el pie cae hacia abajo y la fascia se acorta. La férula mantiene el tobillo a unos 90 grados y los dedos ligeramente hacia arriba, así que la fascia no se contrae y el primer apoyo no la tensa de golpe."
+    },
+    {
+     "h": "Qué dice la evidencia",
+     "p": [
+      "La AAOS (Academia Americana de Cirujanos Ortopédicos) la describe como muy eficaz para el dolor matutino, y el Manual MSD la incluye entre los tratamientos habituales.",
+      "Sin embargo, una revisión sistemática de tratamientos mecánicos encontró beneficio en el conjunto de ortesis, plantillas, vendajes y calzado, sin poder aislar la férula; y algunos ensayos no ven mejora añadida cuando el paciente ya hace estiramientos. Tiene más sentido si el dolor de la mañana es fuerte o si no consigues estirar a diario."
+     ]
+    },
+    {
+     "h": "Consejos para tolerarla",
+     "list": [
+      "Empieza con la tensión floja.",
+      "Llévala un par de horas y ve aumentando.",
+      "Una férula dorsal suele dar menos calor que una bota.",
+      "Sé constante varias semanas antes de juzgar el resultado."
+     ]
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+    "https://pubmed.ncbi.nlm.nih.gov/31629333/",
+    "https://www.msdmanuals.com/es/hogar/breve-informaci%C3%B3n-trastornos-de-los-huesos-las-articulaciones-y-los-m%C3%BAsculos/problemas-del-pie/fascitis-plantar"
+   ]
+  },
+  {
+   "slug": "ejercicios-estiramientos-fascitis-plantar",
+   "question": "¿Qué ejercicios y estiramientos son buenos para la fascitis plantar?",
+   "answer": "Los dos básicos son el estiramiento de gemelo contra la pared y el de fascia plantar tirando de los dedos hacia atrás, este último antes de levantarte. Son la base del tratamiento según la AAOS.",
+   "categories": [
+    "rodillo-pelota-masaje-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "Estiramiento de gemelo",
+     "p": "De pie frente a una pared, adelanta la pierna sana y deja atrás la dolorida, con la rodilla recta y el talón apoyado. Inclínate hacia la pared hasta notar el estiramiento en el gemelo. Mantén 10 segundos y repite 10 veces, 2-3 veces al día."
+    },
+    {
+     "h": "Estiramiento de fascia plantar",
+     "p": "Sentado, cruza el pie dolorido sobre la otra rodilla y tira de los dedos hacia ti hasta notar tensión en la planta. Mantén 10 segundos y repite 10 veces. Hazlo antes del primer paso de la mañana y tras estar mucho tiempo sentado."
+    },
+    {
+     "h": "Masaje con frío",
+     "p": "Rueda la planta del pie sobre una botella de agua congelada unos 20 minutos, 3-4 veces al día."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+   ]
+  },
+  {
+   "slug": "plantillas-podologo-o-farmacia-fascitis",
+   "question": "¿Plantillas a medida del podólogo o plantillas de farmacia para la fascitis plantar?",
+   "answer": "Empieza por unas prefabricadas con soporte de arco y talón (desde unos 20 €), que a muchas personas les bastan. Si en 4-6 semanas no mejoras, o tienes un pie muy plano o muy cavo, ve a un podólogo para valorar unas a medida.",
+   "categories": [
+    "mejores-plantillas-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "Qué dice la evidencia",
+     "p": "La AAOS incluye tanto las plantillas prefabricadas como las hechas a medida entre los tratamientos que reducen la tensión sobre la fascia. Las prefabricadas son más baratas y suelen ser el primer paso."
+    },
+    {
+     "h": "Cuándo merecen la pena las de podólogo",
+     "p": "El Colegio de Podólogos de la Comunidad Valenciana advierte que las plantillas estándar no sirven para todos los pies y pueden empeorar algunos problemas. Si no mejoras, tienes una deformidad del pie o recaídas, unas a medida tienen más sentido."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+    "https://alicanteplaza.es/alicanteplaza/Lospodlogosavisandelanecesidaddeplantillasantemolestiasenpiernas"
+   ]
+  },
+  {
+   "slug": "taloneras-silicona-fascitis-plantar",
+   "question": "¿Las taloneras de silicona sirven para la fascitis plantar?",
+   "answer": "Pueden ayudar: la AAOS cita las taloneras blandas de silicona como una opción para amortiguar el talón y reducir la tensión. Son baratas y caben en casi cualquier zapato, aunque no dan soporte de arco como una plantilla completa.",
+   "categories": [
+    "mejores-plantillas-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "Talonera o plantilla",
+     "p": "La talonera solo amortigua el talón; la plantilla completa añade soporte de arco. Si el dolor es solo en el talón y usas zapatos donde no cabe una plantilla, la talonera es una buena opción. Si duele también el arco, mejor una plantilla."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/"
+   ]
+  },
+  {
+   "slug": "cuando-ir-al-medico-dolor-de-talon",
+   "question": "¿Cuándo debo ir al médico o al podólogo por dolor de talón?",
+   "answer": "Ve si el dolor es intenso o te impide hacer vida normal, si empeora o reaparece, si no mejora tras 2 semanas de cuidados en casa, si tienes hormigueo o pérdida de sensibilidad, o si tienes diabetes.",
+   "categories": [],
+   "sections": [
+    {
+     "h": "Señales de alarma",
+     "list": [
+      "Dolor tras un golpe o una caída.",
+      "Hinchazón o enrojecimiento importante.",
+      "Hormigueo, adormecimiento o pérdida de sensibilidad.",
+      "Dolor fuerte en reposo o por la noche.",
+      "Fiebre junto con el dolor.",
+      "Diabetes."
+     ]
+    },
+    {
+     "h": "Qué esperar en la consulta",
+     "p": "Normalmente el diagnóstico se hace con una exploración física, sin pruebas de imagen. El médico o el podólogo puede recomendarte estiramientos, plantillas, una férula nocturna o fisioterapia."
+    }
+   ],
+   "sources": [
+    "https://www.nhs.uk/conditions/plantar-fasciitis/",
+    "https://my.clevelandclinic.org/health/diseases/14709-plantar-fasciitis"
+   ]
+  },
+  {
+   "slug": "botella-congelada-fascitis-plantar",
+   "question": "¿Rodar una botella congelada alivia la fascitis plantar?",
+   "answer": "Sí, alivia el dolor a corto plazo: combina frío y un masaje suave de la fascia. La AAOS propone unos 20 minutos, 3-4 veces al día; otras fuentes, como ASICS, hablan de sesiones más cortas de 5-10 minutos. Es un complemento a los estiramientos y al buen calzado, no una cura.",
+   "categories": [
+    "rodillo-pelota-masaje-fascitis-plantar"
+   ],
+   "sections": [
+    {
+     "h": "Cómo hacerlo",
+     "list": [
+      "Congela una botella de plástico de medio litro llena de agua casi hasta arriba.",
+      "Siéntate y rueda la planta del pie sobre ella, del talón a los dedos.",
+      "Presiona lo justo; no debe doler mucho.",
+      "Unos 20 minutos, 3-4 veces al día.",
+      "Si el frío molesta, pon un calcetín fino."
+     ]
+    },
+    {
+     "h": "Alternativas sin goteo",
+     "p": "Hay rodillos de acero o de gel que se congelan y retienen el frío, más cómodos que la botella."
+    }
+   ],
+   "sources": [
+    "https://www.orthoinfo.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+    "https://www.nhs.uk/conditions/plantar-fasciitis/",
+    "https://www.asics.com/es/es-es/running-advice/healing-your-heel-plantar/"
+   ]
+  }
+ ]
 }
